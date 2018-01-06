@@ -21,4 +21,8 @@ https://github.com/Admin-backups/SWEB
 
 https://github.com/Admin-backups/GOST-B
 
+本人全部脚本均从别处备份而来，并非本人制作！
+
+无添加，纯净至极！
+
 ## 祝君使用愉快！！
